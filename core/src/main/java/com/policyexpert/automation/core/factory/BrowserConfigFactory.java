@@ -24,6 +24,4 @@ public class BrowserConfigFactory {
         return BrowserConfig.newBuilder().withDriverType(DRIVER_TYPE).withUrl(URL)
                 .build();
     }
-
-
 }
