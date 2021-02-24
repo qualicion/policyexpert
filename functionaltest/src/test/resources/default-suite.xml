@@ -1,0 +1,8 @@
+<suite name="Suite"  preserve-order="true">
+
+    <test name="functionaltest">
+        <classes>
+            <class name="com.policyexpert.automation.CucumberRunner"/>
+        </classes>
+    </test>
+</suite> <!-- Suite -->
